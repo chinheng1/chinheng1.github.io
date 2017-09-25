@@ -6,7 +6,6 @@ url('https://fonts.googleapis.com/css?family=Lato:100,400,900
 /*2. Change the font family to: 'lato'*/
 
 .my-body {
-background-color: #212121;
-font-family: "lato"
-
-}
+    background-color: #212121;
+    font-family: 'lato';
+   }
